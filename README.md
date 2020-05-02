@@ -6,5 +6,5 @@ I put together a folder of abandoned and quick projects; some are high quality f
 Regardless, I hope some people see some use of these.
 
 ### Instructions
-Download the folder named "free places"
+Download the folder named "free places."
 That's all.

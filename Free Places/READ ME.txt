@@ -1,6 +1,5 @@
 Hey there!
 
-Please note that some of these places are more high-quality and professional than others.
-Some of the really bad ones were made when I was a younger kid.
+These vary drastically in quality. Be weary that many projects open sourced here have poor development practices!
 
-Ok have fun bye.
+You can always ask me how well-made a project is on the DevForum.
